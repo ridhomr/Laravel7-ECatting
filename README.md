@@ -1,3 +1,5 @@
+Web E-Catting merupakan kepanjangan dari "catatan penting" sistem ini dibuat untuk mempermudah dalam menambah catatan sehari-hari, jadwal, tugas, dan lain lain nya karena terkadang kita sangat lupa apa yang ingin kita lakukan pada saat itu maka terbuat lah app Catting untuk mempermudah kita dalam mengingat suatu hal yang kadang terlupakan. app ini hampir sama dengan app ToDoList!
+
 HomePage E-Catting :
 ![11](https://user-images.githubusercontent.com/44421049/130348582-177bd15e-cbd4-47ab-bc7a-86d60e793ba2.png)
 
